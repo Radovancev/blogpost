@@ -1,0 +1,254 @@
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\ApplicationInsights.config
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\site_priprema.dll.config
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\site_priprema.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\site_priprema.pdb
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\csc.exe
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\csc.exe.config
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\csc.rsp
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\csi.exe
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\csi.exe.config
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\csi.rsp
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.AppContext.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Console.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.IO.Compression.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.IO.Pipes.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Security.Claims.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Threading.Thread.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.ValueTuple.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\vbc.exe
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\vbc.exe.config
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\vbc.rsp
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\VBCSCompiler.exe
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\System.Web.Helpers.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\System.Web.Mvc.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\System.Web.Optimization.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\System.Web.Razor.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\System.Web.WebPages.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\System.Web.WebPages.Razor.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Antlr3.Runtime.pdb
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Newtonsoft.Json.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\EntityFramework.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\EntityFramework.SqlServer.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.Owin.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.Owin.Security.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.ApplicationInsights.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\bin\Microsoft.AI.Web.xml
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\obj\Debug\site_priprema.csprojResolveAssemblyReference.cache
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\obj\Debug\site_priprema.csproj.CoreCompileInputs.cache
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\obj\Debug\site_priprema.csproj.CopyComplete
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\obj\Debug\site_priprema.dll
+C:\Users\duosasinossn\Documents\SITES\site_priprema\site_priprema\obj\Debug\site_priprema.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\ApplicationInsights.config
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\site_priprema.dll.config
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\site_priprema.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\site_priprema.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\csc.exe
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\csc.exe.config
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\csc.rsp
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\csi.exe
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\csi.exe.config
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\csi.rsp
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.AppContext.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Collections.Immutable.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Console.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Diagnostics.Process.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.IO.Compression.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.IO.FileSystem.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.IO.Pipes.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Reflection.Metadata.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Security.AccessControl.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Security.Claims.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Threading.Thread.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.ValueTuple.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Xml.XPath.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\vbc.exe
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\vbc.exe.config
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\vbc.rsp
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\VBCSCompiler.exe
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\roslyn\VBCSCompiler.exe.config
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\System.Web.Helpers.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\System.Web.Mvc.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\System.Web.Optimization.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\System.Web.Razor.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\System.Web.WebPages.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\System.Web.WebPages.Deployment.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\System.Web.WebPages.Razor.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Antlr3.Runtime.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Newtonsoft.Json.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\EntityFramework.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\EntityFramework.SqlServer.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.AspNet.Identity.Core.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.Owin.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.Owin.Security.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.Owin.Security.Facebook.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.Owin.Security.Cookies.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.Owin.Security.OAuth.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.Owin.Security.Google.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.Owin.Security.Twitter.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.ApplicationInsights.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.AI.DependencyCollector.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.AI.WindowsServer.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\Microsoft.AI.Web.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\obj\Debug\site_priprema.csprojResolveAssemblyReference.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\obj\Debug\site_priprema.csproj.CoreCompileInputs.cache
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\obj\Debug\site_priprema.csproj.CopyComplete
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\obj\Debug\site_priprema.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\obj\Debug\site_priprema.pdb
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\PagedList.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\PagedList.Mvc.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\PagedList.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\PagedList.Mvc.xml
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\NetSpell.SpellChecker.dll
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\BlogModel.Context.tt
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\BlogModel.tt
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\BlogModel.edmx.diagram
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\ActionLog.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\AspNetRole.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\AspNetUser.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\AspNetUserLogin.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\BlogModel.Context.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\BlogModel.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\BlogModel.Designer.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\Category.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\Comment.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\C__MigrationHistory.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\Menu.cs
+C:\STEFAN\FAX\Treca godina\TRECI TRIMESTAR\ASP\site_priprema\site_priprema\bin\DataLayer\Post.cs
+C:\site_priprema\site_priprema\site_priprema\bin\ApplicationInsights.config
+C:\site_priprema\site_priprema\site_priprema\bin\site_priprema.dll.config
+C:\site_priprema\site_priprema\site_priprema\bin\site_priprema.dll
+C:\site_priprema\site_priprema\site_priprema\bin\site_priprema.pdb
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\csc.exe
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\csc.exe.config
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\csc.rsp
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\csi.exe
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\csi.exe.config
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\csi.rsp
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.AppContext.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Collections.Immutable.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Console.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Diagnostics.Process.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.IO.Compression.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.IO.FileSystem.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.IO.Pipes.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Reflection.Metadata.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Security.AccessControl.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Security.Claims.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Threading.Thread.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.ValueTuple.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Xml.XPath.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\vbc.exe
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\vbc.exe.config
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\vbc.rsp
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\VBCSCompiler.exe
+C:\site_priprema\site_priprema\site_priprema\bin\roslyn\VBCSCompiler.exe.config
+C:\site_priprema\site_priprema\site_priprema\bin\NetSpell.SpellChecker.dll
+C:\site_priprema\site_priprema\site_priprema\bin\PagedList.dll
+C:\site_priprema\site_priprema\site_priprema\bin\PagedList.Mvc.dll
+C:\site_priprema\site_priprema\site_priprema\bin\PagedList.xml
+C:\site_priprema\site_priprema\site_priprema\bin\PagedList.Mvc.xml
+C:\site_priprema\site_priprema\site_priprema\obj\Debug\site_priprema.csproj.CoreCompileInputs.cache
+C:\site_priprema\site_priprema\site_priprema\obj\Debug\site_priprema.csproj.CopyComplete
+C:\site_priprema\site_priprema\site_priprema\obj\Debug\site_priprema.dll
+C:\site_priprema\site_priprema\site_priprema\obj\Debug\site_priprema.pdb
+C:\site_priprema\site_priprema\site_priprema\obj\Debug\site_priprema.csprojAssemblyReference.cache

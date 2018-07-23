@@ -1,0 +1,79 @@
+﻿<!-- *** NAVBAR ***
+   _________________________________________________________ -->
+@using site_priprema.BusinessLayer.DTOs;
+<div class="navbar navbar-default yamm" role="navigation" id="navbar">
+    <div class="container">
+        <div class="navbar-header">
+            <div class="navbar-buttons">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation">
+                    <span class="sr-only">Toggle navigation</span>
+                    <i class="fa fa-align-justify"></i>
+                </button>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#search">
+                    <span class="sr-only">Toggle search</span>
+                    <i class="fa fa-search"></i>
+                </button>
+                <img src="~/Content/Images/logoblog.png"/ alt="logo" id="logo" style="float:left, margin-left:-300px">
+            </div>
+        </div>
+        <!--/.navbar-header -->
+
+        <div class="navbar-collapse collapse" id="navigation">
+
+            <div class="dropdown">
+
+                @foreach (MenuDto m in ViewBag.Navigation)
+                {
+
+                    if (m.ParentID == 0)
+                    {
+                        if (Request.IsAuthenticated && User.IsInRole("Admin"))
+                        {
+                            <a class="btn btn-primary dropdown-toggle" href="@Url.Action(@m.Link, @m.Controller, new { area = @m.Area })" data-toggle="dropdown">
+                                @m.Menu
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                @foreach (MenuDto md in ViewBag.Navigation)
+                                {
+                                    if (m.Id == md.ParentID)
+                                    {
+                                        <li class="dropdown-item"><a href="@Url.Action(md.Link, md.Controller, new { area = md.Area })">@md.Menu</a></li>
+                                    }
+                                }
+                            </ul>
+                        }
+                    }
+                    else if (m.ParentID == null)
+                    {
+                        <a class="btn btn-primary" href="@Url.Action(@m.Link, @m.Controller, new { area = @m.Area })">
+                            @m.Menu
+                        </a>
+                    }
+                }
+
+            </div>
+            
+
+
+        </div>
+        </div>
+        <!--/.nav-collapse -->
+
+        <div class="navbar-buttons">
+            <!--/.nav-collapse -->
+
+ 
+
+        </div>
+
+        <div class="collapse clearfix" id="search">
+
+        </div>
+        <!--/.nav-collapse -->
+
+    </div>
+	<!-- /.container -->
+</div>
+<!-- /#navbar -->
+<!-- *** NAVBAR END *** -->

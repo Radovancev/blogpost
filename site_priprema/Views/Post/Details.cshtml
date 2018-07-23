@@ -1,0 +1,93 @@
+﻿
+@model site_priprema.BusinessLayer.DTOs.PostDto
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container">
+    <h2>Details</h2>
+    <div class="form-group">
+        <div class="col-md-6">
+            <input type="button" class="btn btn-danger stagod" value="BACK TO THE HOME PAGE" onclick="@("window.location.href='" +  @Url.Action("Index","Post") + "'");" /> <br/>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+    <div id="drzacJednogTitle">
+        <div class="title2">
+            <div class="some-title">
+                <h3>@Html.DisplayFor(model => model.Post)</h3>
+            </div>
+            <div class="clearfix"> </div>
+            <div class="tilte-grid">
+                <a href="single.html"><img src="@Request.Url.GetLeftPart(UriPartial.Authority)/@Html.DisplayFor(model => model.Path)" alt=" " /></a>
+                <p class="Sed">
+                    <span>
+                        @Html.DisplayFor(model => model.Text)
+                    </span>
+                </p>
+            </div>
+            <div class="kreator">
+                <p><a href="#">@Html.DisplayFor(model => model.Username)</a><span>@Html.DisplayFor(model => model.Updated_At)</span></p>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <div class="comments">
+        @foreach (var i in Model.Comment)
+        {
+            <div class="title">
+                <div class="clearfix"> </div>
+                <div class="tilte-grid">
+                    <p class="Sed">
+                        <span>
+                            <script>
+                                document.write(unescape("@i.Comment"));
+                            </script>
+                        </span>
+                    </p>
+                </div>
+                <div class="kreator">
+                    <p>Created by: <a href="#">@Html.DisplayFor(m => i.AspNetUser.UserName)</a><span>@Html.DisplayFor(m => i.Created_At)</span></p>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        }
+    </div>
+    <div class="col-md-12">
+
+        @using (Html.BeginForm("Create", "Comment", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+        {
+            if (HttpContext.Current.User.Identity.IsAuthenticated)
+            {
+                @Html.AntiForgeryToken()
+                @Html.Hidden("postid", Model.Id)
+                @Html.Hidden("user", User.Identity.Name)
+                <div class="col-md-8">
+                    <div class="input-group">
+                        @Html.TextAreaFor(m => m.CommentText, new { rows = "20", style = "resize:none;width:400px;", placeholder = Html.DisplayNameFor(m => m.CommentText), @class = "form-control input-lg textarea-editor", @id = "editor" })
+
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="button" id="create" class="btn btn-default" value="Create Comment" />
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.js"></script>
+    @Scripts.Render("~/bundles/Additional/script-custom-editor")
+
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.css" rel="stylesheet">
+
+}
+

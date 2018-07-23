@@ -1,0 +1,5 @@
+to edit datetime on the view, @html.textbox("",..., { 0:dd MMM yyyy})
+
+za slike, ValidateImageAttribute filter klasa
+string fileName = Guid.NewGuid().ToString() + "_" + model.Path.FileName;
+klasa Path.Combine ( System.IO )

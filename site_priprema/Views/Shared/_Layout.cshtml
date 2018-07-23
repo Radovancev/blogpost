@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+@Html.Partial("Partials/_Head")
+@Html.Partial("Partials/_TopBar")
+@Html.Partial("Partials/_Navbar")
+<body>
+
+	<div id="all">
+
+		<div id="content">
+			@RenderBody()
+		</div>
+
+		@Html.Partial("Partials/_Footer")
+
+	</div>
+</body>
+	@RenderSection("scripts", required: false)
+</html>
